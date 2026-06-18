@@ -1,0 +1,211 @@
+GO	cluster	Description	set
+GO:0006412	1	translation	both
+GO:0042775	2	mitochondrial ATP synthesis coupled electron transport	Multifasciatus
+GO:0042254	3	ribosome biogenesis	both
+GO:0006364	4	rRNA processing	both
+GO:0016072	4	rRNA metabolic process	Multifasciatus
+GO:0030182	5	neuron differentiation	Multifasciatus
+GO:0007005	6	mitochondrion organization	both
+GO:0007411	5	axon guidance	Multifasciatus
+GO:0006457	7	protein folding	both
+GO:0051604	1	protein maturation	both
+GO:0098609	8	cell-cell adhesion	Multifasciatus
+GO:0048193	9	Golgi vesicle transport	Multifasciatus
+GO:0033108	3	mitochondrial respiratory chain complex assembly	both
+GO:0009888	5	tissue development	Multifasciatus
+GO:0120039	5	plasma membrane bounded cell projection morphogenesis	both
+GO:0015031	10	protein transport	both
+GO:0140053	11	mitochondrial gene expression	both
+GO:0000902	5	cell morphogenesis	both
+GO:0042255	3	ribosome assembly	both
+GO:0016226	4	iron-sulfur cluster assembly	both
+GO:0048513	5	animal organ development	both
+GO:0017004	3	cytochrome complex assembly	Multifasciatus
+GO:0061061	5	muscle structure development	Multifasciatus
+GO:0016477	12	cell migration	both
+GO:0042692	5	muscle cell differentiation	Multifasciatus
+GO:0022618	3	protein-RNA complex assembly	Multifasciatus
+GO:0009201	4	ribonucleoside triphosphate biosynthetic process	Multifasciatus
+GO:0070585	13	protein localization to mitochondrion	both
+GO:0000226	6	microtubule cytoskeleton organization	Multifasciatus
+GO:0034329	6	cell junction assembly	both
+GO:0034330	6	cell junction organization	both
+GO:0071826	6	protein-RNA complex organization	Multifasciatus
+GO:0048284	6	organelle fusion	both
+GO:1902600	9	proton transmembrane transport	Multifasciatus
+GO:0030163	1	protein catabolic process	both
+GO:0045116	1	protein neddylation	Multifasciatus
+GO:0030198	6	extracellular matrix organization	Multifasciatus
+GO:0030239	14	myofibril assembly	Multifasciatus
+GO:0007017	7	microtubule-based process	Multifasciatus
+GO:0071526	15	semaphorin-plexin signaling pathway	Multifasciatus
+GO:0006839	9	mitochondrial transport	both
+GO:0006936	16	muscle contraction	Multifasciatus
+GO:0030036	6	actin cytoskeleton organization	both
+GO:0043632	4	modification-dependent macromolecule catabolic process	both
+GO:1903320	1	regulation of protein modification by small protein conjugation or removal	Multifasciatus
+GO:0031589	8	cell-substrate adhesion	Multifasciatus
+GO:0051438	17	regulation of ubiquitin-protein transferase activity	Multifasciatus
+GO:0000387	3	spliceosomal snRNP assembly	Multifasciatus
+GO:0032259	18	methylation	Multifasciatus
+GO:0030029	7	actin filament-based process	both
+GO:0043087	17	regulation of GTPase activity	Multifasciatus
+GO:0006906	6	vesicle fusion	both
+GO:0000422	6	autophagy of mitochondrion	both
+GO:0001708	5	cell fate specification	Multifasciatus
+GO:0042552	5	myelination	Multifasciatus
+GO:0046395	4	carboxylic acid catabolic process	Multifasciatus
+GO:0006082	4	organic acid metabolic process	Multifasciatus
+GO:0019395	4	fatty acid oxidation	Multifasciatus
+GO:0090407	18	organophosphate biosynthetic process	Multifasciatus
+GO:0050804	15	modulation of chemical synaptic transmission	both
+GO:0097435	6	supramolecular fiber organization	Multifasciatus
+GO:0043414	1	macromolecule methylation	Multifasciatus
+GO:0070588	9	calcium ion transmembrane transport	both
+GO:0044282	18	small molecule catabolic process	both
+GO:0061025	6	membrane fusion	both
+GO:0007034	9	vacuolar transport	both
+GO:0072521	4	purine-containing compound metabolic process	Multifasciatus
+GO:0048646	5	anatomical structure formation involved in morphogenesis	Multifasciatus
+GO:0002822	19	regulation of adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains	Multifasciatus
+GO:0006790	4	sulfur compound metabolic process	Multifasciatus
+GO:0071025	4	RNA surveillance	Multifasciatus
+GO:0006805	20	xenobiotic metabolic process	Multifasciatus
+GO:0009410	20	response to xenobiotic stimulus	Multifasciatus
+GO:0120035	6	regulation of plasma membrane bounded cell projection organization	both
+GO:0016050	6	vesicle organization	both
+GO:0097553	9	calcium ion transmembrane import into cytosol	both
+GO:0000413	1	protein peptidyl-prolyl isomerization	Multifasciatus
+GO:0000278	7	mitotic cell cycle	Multifasciatus
+GO:0170036	21	import into the mitochondrion	Multifasciatus
+GO:0050793	5	regulation of developmental process	both
+GO:0046503	4	glycerolipid catabolic process	Multifasciatus
+GO:0051493	6	regulation of cytoskeleton organization	Multifasciatus
+GO:0043603	4	amide metabolic process	Multifasciatus
+GO:0018158	1	protein oxidation	Multifasciatus
+GO:0051402	22	neuron apoptotic process	Multifasciatus
+GO:0006749	4	glutathione metabolic process	Multifasciatus
+GO:0045103	7	intermediate filament-based process	Multifasciatus
+GO:0045104	6	intermediate filament cytoskeleton organization	Multifasciatus
+GO:0051051	23	negative regulation of transport	Multifasciatus
+GO:0051247	1	positive regulation of protein metabolic process	Multifasciatus
+GO:0001755	5	neural crest cell migration	Multifasciatus
+GO:0048864	5	stem cell development	Multifasciatus
+GO:0055074	24	calcium ion homeostasis	both
+GO:0007030	6	Golgi organization	both
+GO:0040007	25	growth	Multifasciatus
+GO:0035249	15	synaptic transmission, glutamatergic	Multifasciatus
+GO:0007417	5	central nervous system development	Multifasciatus
+GO:0022402	7	cell cycle process	Multifasciatus
+GO:0030855	5	epithelial cell differentiation	Multifasciatus
+GO:0006874	24	intracellular calcium ion homeostasis	both
+GO:1901137	18	carbohydrate derivative biosynthetic process	both
+GO:0006937	16	regulation of muscle contraction	Multifasciatus
+GO:0045197	7	establishment or maintenance of epithelial cell apical/basal polarity	both
+GO:0070509	9	calcium ion import	Multifasciatus
+GO:0048640	25	negative regulation of developmental growth	Multifasciatus
+GO:0030155	8	regulation of cell adhesion	Multifasciatus
+GO:0006406	10	mRNA export from nucleus	Multifasciatus
+GO:0003007	5	heart morphogenesis	Multifasciatus
+GO:0009952	5	anterior/posterior pattern specification	Multifasciatus
+GO:0051084	7	'de novo' post-translational protein folding	Multifasciatus
+GO:0051056	15	regulation of small GTPase mediated signal transduction	Multifasciatus
+GO:0048878	24	chemical homeostasis	Multifasciatus
+GO:0048589	25	developmental growth	Multifasciatus
+GO:0045595	5	regulation of cell differentiation	both
+GO:0000054	10	ribosomal subunit export from nucleus	both
+GO:0033750	13	ribosome localization	both
+GO:0009395	4	phospholipid catabolic process	Multifasciatus
+GO:0006979	20	response to oxidative stress	Multifasciatus
+GO:0040011	25	locomotion	Multifasciatus
+GO:0010212	26	response to ionizing radiation	Multifasciatus
+GO:0033627	8	cell adhesion mediated by integrin	Multifasciatus
+GO:0009615	27	response to virus	both
+GO:0006913	9	nucleocytoplasmic transport	Multifasciatus
+GO:0050905	16	neuromuscular process	Multifasciatus
+GO:0045926	25	negative regulation of growth	Multifasciatus
+GO:0050684	4	regulation of mRNA processing	Meeli
+GO:0019752	4	carboxylic acid metabolic process	Meeli
+GO:0048667	5	cell morphogenesis involved in neuron differentiation	Meeli
+GO:0009891	28	positive regulation of biosynthetic process	Meeli
+GO:0010557	28	positive regulation of macromolecule biosynthetic process	Meeli
+GO:0099536	15	synaptic signaling	Meeli
+GO:0006399	4	tRNA metabolic process	Meeli
+GO:0006888	9	endoplasmic reticulum to Golgi vesicle-mediated transport	Meeli
+GO:0098742	8	cell-cell adhesion via plasma-membrane adhesion molecules	Meeli
+GO:0006816	9	calcium ion transport	Meeli
+GO:0007169	15	cell surface receptor protein tyrosine kinase signaling pathway	Meeli
+GO:0002684	19	positive regulation of immune system process	Meeli
+GO:0006643	4	membrane lipid metabolic process	Meeli
+GO:2000026	5	regulation of multicellular organismal development	Meeli
+GO:0006376	3	mRNA splice site recognition	Meeli
+GO:1902414	13	protein localization to cell junction	Meeli
+GO:0046883	29	regulation of hormone secretion	Meeli
+GO:0060070	15	canonical Wnt signaling pathway	Meeli
+GO:0002478	30	antigen processing and presentation of exogenous peptide antigen	Meeli
+GO:0002696	19	positive regulation of leukocyte activation	Meeli
+GO:0006955	19	immune response	Meeli
+GO:0002503	3	peptide antigen assembly with MHC class II protein complex	Meeli
+GO:0002381	11	immunoglobulin production involved in immunoglobulin-mediated immune response	Meeli
+GO:0006486	1	protein glycosylation	Meeli
+GO:0043413	18	macromolecule glycosylation	Meeli
+GO:0070085	18	glycosylation	Meeli
+GO:0009083	4	branched-chain amino acid catabolic process	Meeli
+GO:0010629	11	negative regulation of gene expression	Meeli
+GO:0050877	16	nervous system process	Meeli
+GO:0006091	4	generation of precursor metabolites and energy	Meeli
+GO:0009141	4	nucleoside triphosphate metabolic process	Meeli
+GO:0036465	9	synaptic vesicle recycling	Meeli
+GO:0099054	5	presynapse assembly	Meeli
+GO:0002449	31	lymphocyte mediated immunity	Meeli
+GO:0050870	8	positive regulation of T cell activation	Meeli
+GO:1903039	8	positive regulation of leukocyte cell-cell adhesion	Meeli
+GO:0050801	24	monoatomic ion homeostasis	Meeli
+GO:0098657	9	import into cell	Meeli
+GO:0010558	28	negative regulation of macromolecule biosynthetic process	Meeli
+GO:0044283	18	small molecule biosynthetic process	Meeli
+GO:0098659	9	inorganic cation import across plasma membrane	Meeli
+GO:0006576	4	biogenic amine metabolic process	Meeli
+GO:0009308	4	amine metabolic process	Meeli
+GO:0099072	24	regulation of postsynaptic membrane neurotransmitter receptor levels	Meeli
+GO:0009914	9	hormone transport	Meeli
+GO:0009890	28	negative regulation of biosynthetic process	Meeli
+GO:0007610	25	behavior	Meeli
+GO:0050778	19	positive regulation of immune response	Meeli
+GO:0046034	18	ATP metabolic process	Meeli
+GO:0098739	9	import across plasma membrane	Meeli
+GO:0002377	11	immunoglobulin production	Meeli
+GO:0009896	28	positive regulation of catabolic process	Meeli
+GO:0002791	23	regulation of peptide secretion	Meeli
+GO:0015701	10	bicarbonate transport	Meeli
+GO:0008286	15	insulin receptor signaling pathway	Meeli
+GO:1903540	13	establishment of protein localization to postsynaptic membrane	Meeli
+GO:0045165	5	cell fate commitment	Meeli
+GO:0060632	12	regulation of microtubule-based movement	Meeli
+GO:0030334	12	regulation of cell migration	Meeli
+GO:0046777	1	protein autophosphorylation	Meeli
+GO:0099565	15	chemical synaptic transmission, postsynaptic	Meeli
+GO:0141193	32	nuclear receptor-mediated signaling pathway	Meeli
+GO:0061640	7	cytoskeleton-dependent cytokinesis	Meeli
+GO:0032411	23	positive regulation of transporter activity	Meeli
+GO:0032414	23	positive regulation of ion transmembrane transporter activity	Meeli
+GO:0051453	24	regulation of intracellular pH	Meeli
+GO:0050767	5	regulation of neurogenesis	Meeli
+GO:0031647	24	regulation of protein stability	Meeli
+GO:0035967	20	cellular response to topologically incorrect protein	Meeli
+GO:0010766	23	negative regulation of sodium ion transport	Meeli
+GO:0010608	11	post-transcriptional regulation of gene expression	Meeli
+GO:0042886	10	amide transport	Meeli
+GO:0098962	15	regulation of postsynaptic neurotransmitter receptor activity	Meeli
+GO:0035966	20	response to topologically incorrect protein	Meeli
+GO:0035329	15	hippo signaling	Meeli
+GO:0031396	1	regulation of protein ubiquitination	Meeli
+GO:0046479	4	glycosphingolipid catabolic process	Meeli
+GO:0007218	15	neuropeptide signaling pathway	Meeli
+GO:0008637	6	apoptotic mitochondrial changes	Meeli
+GO:0034982	1	mitochondrial protein processing	Meeli
+GO:0051048	23	negative regulation of secretion	Meeli
+GO:0048791	29	calcium ion-regulated exocytosis of neurotransmitter	Meeli
+GO:0002062	5	chondrocyte differentiation	Meeli
+GO:0006066	18	alcohol metabolic process	Meeli
+GO:0040013	25	negative regulation of locomotion	Meeli

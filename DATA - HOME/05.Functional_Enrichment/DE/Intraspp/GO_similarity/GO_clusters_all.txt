@@ -1,0 +1,118 @@
+GO	cluster	Description	set
+GO:0007601	1	visual perception	both
+GO:0007156	2	homophilic cell adhesion via plasma membrane adhesion molecules	Multifasciatus
+GO:0007411	3	axon guidance	Multifasciatus
+GO:0120039	4	plasma membrane bounded cell projection morphogenesis	Multifasciatus
+GO:0000902	4	cell morphogenesis	Multifasciatus
+GO:0007416	5	synapse assembly	Multifasciatus
+GO:0007602	6	phototransduction	both
+GO:0051128	5	regulation of cellular component organization	Multifasciatus
+GO:0008277	7	regulation of G protein-coupled receptor signaling pathway	Multifasciatus
+GO:0009583	6	detection of light stimulus	both
+GO:0050808	5	synapse organization	Multifasciatus
+GO:0051261	5	protein depolymerization	Multifasciatus
+GO:0031110	5	regulation of microtubule polymerization or depolymerization	Multifasciatus
+GO:0009581	6	detection of external stimulus	Multifasciatus
+GO:0009582	6	detection of abiotic stimulus	Multifasciatus
+GO:0000278	8	mitotic cell cycle	Multifasciatus
+GO:0009615	9	response to virus	Multifasciatus
+GO:0007019	5	microtubule depolymerization	Multifasciatus
+GO:0009416	6	response to light stimulus	Multifasciatus
+GO:0071526	7	semaphorin-plexin signaling pathway	Multifasciatus
+GO:0051960	3	regulation of nervous system development	Multifasciatus
+GO:0050919	10	negative chemotaxis	Multifasciatus
+GO:1901888	5	regulation of cell junction assembly	Multifasciatus
+GO:0051606	6	detection of stimulus	Multifasciatus
+GO:0007267	7	cell-cell signaling	Multifasciatus
+GO:0034329	5	cell junction assembly	Multifasciatus
+GO:0007017	8	microtubule-based process	Multifasciatus
+GO:0008380	11	RNA splicing	Multifasciatus
+GO:0006805	12	xenobiotic metabolic process	Multifasciatus
+GO:0009410	12	response to xenobiotic stimulus	Multifasciatus
+GO:0051607	9	defense response to virus	Multifasciatus
+GO:0043122	7	regulation of canonical NF-kappaB signal transduction	Multifasciatus
+GO:0042127	8	regulation of cell population proliferation	Multifasciatus
+GO:0050804	7	modulation of chemical synaptic transmission	Multifasciatus
+GO:0031114	5	regulation of microtubule depolymerization	Multifasciatus
+GO:0009605	6	response to external stimulus	Multifasciatus
+GO:0048843	3	negative regulation of axon extension involved in axon guidance	Multifasciatus
+GO:0050922	10	negative regulation of chemotaxis	Multifasciatus
+GO:0032102	10	negative regulation of response to external stimulus	Multifasciatus
+GO:0009607	6	response to biotic stimulus	Multifasciatus
+GO:0050768	3	negative regulation of neurogenesis	Multifasciatus
+GO:0008283	8	cell population proliferation	Multifasciatus
+GO:0043067	8	regulation of programmed cell death	Multifasciatus
+GO:0090066	13	regulation of anatomical structure size	Multifasciatus
+GO:0050803	13	regulation of synapse structure or activity	Multifasciatus
+GO:0044419	9	biological process involved in interspecies interaction between organisms	Multifasciatus
+GO:0006260	11	DNA replication	Multifasciatus
+GO:0010721	3	negative regulation of cell development	Multifasciatus
+GO:0010648	7	negative regulation of cell communication	Multifasciatus
+GO:0023057	14	negative regulation of signaling	Multifasciatus
+GO:0045926	14	negative regulation of growth	Multifasciatus
+GO:0034504	15	protein localization to nucleus	Multifasciatus
+GO:0040013	14	negative regulation of locomotion	Multifasciatus
+GO:0032535	13	regulation of cellular component size	Multifasciatus
+GO:0048640	14	negative regulation of developmental growth	Multifasciatus
+GO:0022402	8	cell cycle process	both
+GO:0050807	5	regulation of synapse organization	Multifasciatus
+GO:0000226	5	microtubule cytoskeleton organization	Multifasciatus
+GO:0051093	14	negative regulation of developmental process	Multifasciatus
+GO:0007018	8	microtubule-based movement	Multifasciatus
+GO:0002700	16	regulation of production of molecular mediator of immune response	Multifasciatus
+GO:0006606	15	protein import into nucleus	Multifasciatus
+GO:0007417	3	central nervous system development	Multifasciatus
+GO:0048584	6	positive regulation of response to stimulus	both
+GO:0060322	4	head development	Multifasciatus
+GO:0008037	8	cell recognition	Multifasciatus
+GO:0032886	8	regulation of microtubule-based process	Multifasciatus
+GO:0048002	17	antigen processing and presentation of peptide antigen	Multifasciatus
+GO:0009100	11	glycoprotein metabolic process	Multifasciatus
+GO:0009968	7	negative regulation of signal transduction	Multifasciatus
+GO:0001667	18	ameboidal-type cell migration	Multifasciatus
+GO:0000280	5	nuclear division	Multifasciatus
+GO:0097435	5	supramolecular fiber organization	Multifasciatus
+GO:0006911	19	phagocytosis, engulfment	Multifasciatus
+GO:0006952	6	defense response	Multifasciatus
+GO:0016049	8	cell growth	Multifasciatus
+GO:0007059	8	chromosome segregation	both
+GO:0001755	18	neural crest cell migration	Multifasciatus
+GO:0002503	17	peptide antigen assembly with MHC class II protein complex	Multifasciatus
+GO:0006915	8	apoptotic process	Multifasciatus
+GO:0002822	14	regulation of adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains	Multifasciatus
+GO:0030261	5	chromosome condensation	Multifasciatus
+GO:0051276	5	chromosome organization	both
+GO:0016071	11	mRNA metabolic process	Meeli
+GO:0006643	11	membrane lipid metabolic process	Meeli
+GO:0009890	16	negative regulation of biosynthetic process	Meeli
+GO:0002224	7	toll-like receptor signaling pathway	Meeli
+GO:0002764	7	immune response-regulating signaling pathway	Meeli
+GO:0010558	16	negative regulation of macromolecule biosynthetic process	Meeli
+GO:0010557	16	positive regulation of macromolecule biosynthetic process	Meeli
+GO:0009896	16	positive regulation of catabolic process	Meeli
+GO:0009891	16	positive regulation of biosynthetic process	Meeli
+GO:0003012	1	muscle system process	Meeli
+GO:0006405	15	RNA export from nucleus	Meeli
+GO:0002682	14	regulation of immune system process	Meeli
+GO:0006406	15	mRNA export from nucleus	Meeli
+GO:0007163	8	establishment or maintenance of cell polarity	Meeli
+GO:0045892	16	negative regulation of DNA-templated transcription	Meeli
+GO:0045324	19	late endosome to vacuole transport	Meeli
+GO:0009187	11	cyclic nucleotide metabolic process	Meeli
+GO:0051236	15	establishment of RNA localization	Meeli
+GO:0000819	5	sister chromatid segregation	Meeli
+GO:1902600	20	proton transmembrane transport	Meeli
+GO:0043488	16	regulation of mRNA stability	Meeli
+GO:0009314	6	response to radiation	Meeli
+GO:0007040	5	lysosome organization	Meeli
+GO:0019882	17	antigen processing and presentation	Meeli
+GO:0061024	5	membrane organization	Meeli
+GO:0031570	7	DNA integrity checkpoint signaling	Meeli
+GO:0018105	11	peptidyl-serine phosphorylation	Meeli
+GO:0006310	11	DNA recombination	Meeli
+GO:0031349	6	positive regulation of defense response	Meeli
+GO:0010608	16	post-transcriptional regulation of gene expression	Meeli
+GO:0006302	11	double-strand break repair	Meeli
+GO:0009190	11	cyclic nucleotide biosynthetic process	Meeli
+GO:0005996	11	monosaccharide metabolic process	Meeli
+GO:0060537	4	muscle tissue development	Meeli

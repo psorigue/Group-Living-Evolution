@@ -1,0 +1,193 @@
+cluster	GO	Description	set	padj	NES
+1	GO:0006412	translation	both	Multifasciatus:1.47e-08;Meeli:2.05e-08	Multifasciatus:2.69;Meeli:2.05
+1	GO:0051604	protein maturation	both	Multifasciatus:3.13e-07;Meeli:2.05e-08	Multifasciatus:2.02;Meeli:2.24
+1	GO:0030163	protein catabolic process	both	Multifasciatus:0.000748;Meeli:0.000421	Multifasciatus:1.57;Meeli:1.55
+1	GO:0045116	protein neddylation	Multifasciatus	0.000757	2.19
+1	GO:1903320	regulation of protein modification by small protein conjugation or removal	Multifasciatus	0.00205	2.06
+1	GO:0043414	macromolecule methylation	Multifasciatus	0.00713	1.77
+1	GO:0000413	protein peptidyl-prolyl isomerization	Multifasciatus	0.0123	1.93
+1	GO:0018158	protein oxidation	Multifasciatus	0.0163	-1.97
+1	GO:0051247	positive regulation of protein metabolic process	Multifasciatus	0.0184	1.48
+1	GO:0006486	protein glycosylation	Meeli	0.00208	1.73
+1	GO:0046777	protein autophosphorylation	Meeli	0.0134	-1.81
+1	GO:0031396	regulation of protein ubiquitination	Meeli	0.0351	1.85
+1	GO:0034982	mitochondrial protein processing	Meeli	0.0386	1.79
+3	GO:0042254	ribosome biogenesis	both	Multifasciatus:1.47e-08;Meeli:2.05e-08	Multifasciatus:2.61;Meeli:2.32
+3	GO:0033108	mitochondrial respiratory chain complex assembly	both	Multifasciatus:1.84e-06;Meeli:0.00609	Multifasciatus:2.38;Meeli:1.83
+3	GO:0042255	ribosome assembly	both	Multifasciatus:2.67e-05;Meeli:0.00585	Multifasciatus:2.35;Meeli:1.94
+3	GO:0017004	cytochrome complex assembly	Multifasciatus	8.24e-05	2.3
+3	GO:0022618	protein-RNA complex assembly	Multifasciatus	0.000258	1.97
+3	GO:0000387	spliceosomal snRNP assembly	Multifasciatus	0.00244	2.1
+3	GO:0006376	mRNA splice site recognition	Meeli	0.000287	-2.29
+3	GO:0002503	peptide antigen assembly with MHC class II protein complex	Meeli	0.00117	2.13
+4	GO:0006364	rRNA processing	both	Multifasciatus:1.47e-08;Meeli:1.25e-05	Multifasciatus:2.41;Meeli:2.1
+4	GO:0016072	rRNA metabolic process	Multifasciatus	1.47e-08	2.37
+4	GO:0016226	iron-sulfur cluster assembly	both	Multifasciatus:4.4e-05;Meeli:0.00103	Multifasciatus:2.34;Meeli:2.25
+4	GO:0009201	ribonucleoside triphosphate biosynthetic process	Multifasciatus	0.000274	2.2
+4	GO:0043632	modification-dependent macromolecule catabolic process	both	Multifasciatus:0.00201;Meeli:0.0121	Multifasciatus:1.56;Meeli:1.46
+4	GO:0046395	carboxylic acid catabolic process	Multifasciatus	0.00335	1.72
+4	GO:0006082	organic acid metabolic process	Multifasciatus	0.00342	1.48
+4	GO:0019395	fatty acid oxidation	Multifasciatus	0.00381	1.97
+4	GO:0072521	purine-containing compound metabolic process	Multifasciatus	0.00933	1.51
+4	GO:0006790	sulfur compound metabolic process	Multifasciatus	0.0115	1.58
+4	GO:0071025	RNA surveillance	Multifasciatus	0.0117	1.93
+4	GO:0046503	glycerolipid catabolic process	Multifasciatus	0.0142	-1.82
+4	GO:0043603	amide metabolic process	Multifasciatus	0.015	1.56
+4	GO:0006749	glutathione metabolic process	Multifasciatus	0.0174	1.84
+4	GO:0009395	phospholipid catabolic process	Multifasciatus	0.0409	-1.77
+4	GO:0050684	regulation of mRNA processing	Meeli	2.05e-08	-2.59
+4	GO:0019752	carboxylic acid metabolic process	Meeli	2.05e-08	1.95
+4	GO:0006399	tRNA metabolic process	Meeli	1.03e-05	2.05
+4	GO:0006643	membrane lipid metabolic process	Meeli	0.000239	1.94
+4	GO:0009083	branched-chain amino acid catabolic process	Meeli	0.00223	2.12
+4	GO:0006091	generation of precursor metabolites and energy	Meeli	0.0034	1.69
+4	GO:0009141	nucleoside triphosphate metabolic process	Meeli	0.00427	1.82
+4	GO:0006576	biogenic amine metabolic process	Meeli	0.00604	2
+4	GO:0009308	amine metabolic process	Meeli	0.00613	2.06
+4	GO:0046479	glycosphingolipid catabolic process	Meeli	0.0352	1.77
+5	GO:0030182	neuron differentiation	Multifasciatus	1.47e-08	-2.04
+5	GO:0007411	axon guidance	Multifasciatus	3.32e-08	-2.27
+5	GO:0009888	tissue development	Multifasciatus	1.87e-06	-2.1
+5	GO:0120039	plasma membrane bounded cell projection morphogenesis	both	Multifasciatus:2.99e-06;Meeli:1.4e-05	Multifasciatus:-1.91;Meeli:-1.84
+5	GO:0000902	cell morphogenesis	both	Multifasciatus:1.08e-05;Meeli:5.34e-07	Multifasciatus:-1.83;Meeli:-1.9
+5	GO:0048513	animal organ development	both	Multifasciatus:6.48e-05;Meeli:1.41e-06	Multifasciatus:-1.68;Meeli:-1.81
+5	GO:0061061	muscle structure development	Multifasciatus	0.000138	-2.14
+5	GO:0042692	muscle cell differentiation	Multifasciatus	0.000168	-2.22
+5	GO:0001708	cell fate specification	Multifasciatus	0.00319	-2.04
+5	GO:0042552	myelination	Multifasciatus	0.00319	-2.04
+5	GO:0048646	anatomical structure formation involved in morphogenesis	Multifasciatus	0.00988	-1.65
+5	GO:0050793	regulation of developmental process	both	Multifasciatus:0.0136;Meeli:0.000192	Multifasciatus:-1.42;Meeli:-1.68
+5	GO:0001755	neural crest cell migration	Multifasciatus	0.0194	-1.77
+5	GO:0048864	stem cell development	Multifasciatus	0.0207	-1.74
+5	GO:0007417	central nervous system development	Multifasciatus	0.027	-1.51
+5	GO:0030855	epithelial cell differentiation	Multifasciatus	0.0288	-1.74
+5	GO:0003007	heart morphogenesis	Multifasciatus	0.0391	-1.86
+5	GO:0009952	anterior/posterior pattern specification	Multifasciatus	0.0391	1.75
+5	GO:0045595	regulation of cell differentiation	both	Multifasciatus:0.0403;Meeli:0.00567	Multifasciatus:-1.47;Meeli:-1.59
+5	GO:0048667	cell morphogenesis involved in neuron differentiation	Meeli	2.82e-07	-2.03
+5	GO:2000026	regulation of multicellular organismal development	Meeli	0.000283	-1.78
+5	GO:0099054	presynapse assembly	Meeli	0.00459	-2.07
+5	GO:0045165	cell fate commitment	Meeli	0.0123	-1.71
+5	GO:0050767	regulation of neurogenesis	Meeli	0.0185	-1.6
+5	GO:0002062	chondrocyte differentiation	Meeli	0.0438	-1.76
+6	GO:0007005	mitochondrion organization	both	Multifasciatus:1.51e-08;Meeli:0.00047	Multifasciatus:2.28;Meeli:1.84
+6	GO:0000226	microtubule cytoskeleton organization	Multifasciatus	0.000361	-1.63
+6	GO:0034329	cell junction assembly	both	Multifasciatus:0.000384;Meeli:0.00908	Multifasciatus:-1.86;Meeli:-1.66
+6	GO:0034330	cell junction organization	both	Multifasciatus:0.000385;Meeli:7.69e-06	Multifasciatus:-1.74;Meeli:-1.89
+6	GO:0071826	protein-RNA complex organization	Multifasciatus	0.000472	1.89
+6	GO:0048284	organelle fusion	both	Multifasciatus:0.000595;Meeli:0.000859	Multifasciatus:1.96;Meeli:1.96
+6	GO:0030198	extracellular matrix organization	Multifasciatus	0.000859	-1.96
+6	GO:0030036	actin cytoskeleton organization	both	Multifasciatus:0.00199;Meeli:0.0186	Multifasciatus:-1.54;Meeli:-1.4
+6	GO:0006906	vesicle fusion	both	Multifasciatus:0.00315;Meeli:0.000416	Multifasciatus:1.85;Meeli:2
+6	GO:0000422	autophagy of mitochondrion	both	Multifasciatus:0.00318;Meeli:0.0064	Multifasciatus:1.98;Meeli:1.94
+6	GO:0097435	supramolecular fiber organization	Multifasciatus	0.00706	-1.45
+6	GO:0061025	membrane fusion	both	Multifasciatus:0.00844;Meeli:0.000594	Multifasciatus:1.77;Meeli:1.95
+6	GO:0120035	regulation of plasma membrane bounded cell projection organization	both	Multifasciatus:0.0117;Meeli:0.0183	Multifasciatus:-1.63;Meeli:-1.54
+6	GO:0016050	vesicle organization	both	Multifasciatus:0.0118;Meeli:0.000686	Multifasciatus:1.57;Meeli:1.82
+6	GO:0051493	regulation of cytoskeleton organization	Multifasciatus	0.0147	-1.5
+6	GO:0045104	intermediate filament cytoskeleton organization	Multifasciatus	0.0174	-1.8
+6	GO:0007030	Golgi organization	both	Multifasciatus:0.0234;Meeli:0.000215	Multifasciatus:1.71;Meeli:2.1
+6	GO:0008637	apoptotic mitochondrial changes	Meeli	0.0377	1.79
+7	GO:0006457	protein folding	both	Multifasciatus:7.37e-08;Meeli:2.05e-08	Multifasciatus:2.3;Meeli:2.45
+7	GO:0007017	microtubule-based process	Multifasciatus	0.000936	-1.54
+7	GO:0030029	actin filament-based process	both	Multifasciatus:0.00267;Meeli:0.0315	Multifasciatus:-1.5;Meeli:-1.35
+7	GO:0000278	mitotic cell cycle	Multifasciatus	0.0134	-1.47
+7	GO:0045103	intermediate filament-based process	Multifasciatus	0.0174	-1.8
+7	GO:0022402	cell cycle process	Multifasciatus	0.027	-1.38
+7	GO:0045197	establishment or maintenance of epithelial cell apical/basal polarity	both	Multifasciatus:0.034;Meeli:0.0183	Multifasciatus:-1.76;Meeli:-1.85
+7	GO:0051084	'de novo' post-translational protein folding	Multifasciatus	0.0391	1.75
+7	GO:0061640	cytoskeleton-dependent cytokinesis	Meeli	0.0178	-1.78
+8	GO:0098609	cell-cell adhesion	Multifasciatus	3.96e-07	-1.77
+8	GO:0031589	cell-substrate adhesion	Multifasciatus	0.0021	-1.8
+8	GO:0030155	regulation of cell adhesion	Multifasciatus	0.0354	-1.49
+8	GO:0033627	cell adhesion mediated by integrin	Multifasciatus	0.0448	-1.57
+8	GO:0098742	cell-cell adhesion via plasma-membrane adhesion molecules	Meeli	8.82e-05	-1.87
+8	GO:0050870	positive regulation of T cell activation	Meeli	0.00542	1.77
+8	GO:1903039	positive regulation of leukocyte cell-cell adhesion	Meeli	0.00542	1.77
+9	GO:0048193	Golgi vesicle transport	Multifasciatus	1.38e-06	2.07
+9	GO:1902600	proton transmembrane transport	Multifasciatus	0.000695	2.02
+9	GO:0006839	mitochondrial transport	both	Multifasciatus:0.00142;Meeli:0.0133	Multifasciatus:1.87;Meeli:1.67
+9	GO:0070588	calcium ion transmembrane transport	both	Multifasciatus:0.0075;Meeli:2.95e-06	Multifasciatus:-1.71;Meeli:-2.13
+9	GO:0007034	vacuolar transport	both	Multifasciatus:0.00901;Meeli:0.00731	Multifasciatus:1.73;Meeli:1.74
+9	GO:0097553	calcium ion transmembrane import into cytosol	both	Multifasciatus:0.0122;Meeli:0.00867	Multifasciatus:-1.85;Meeli:-1.94
+9	GO:0070509	calcium ion import	Multifasciatus	0.0345	-1.76
+9	GO:0006913	nucleocytoplasmic transport	Multifasciatus	0.0487	1.54
+9	GO:0006888	endoplasmic reticulum to Golgi vesicle-mediated transport	Meeli	1.24e-05	2.11
+9	GO:0006816	calcium ion transport	Meeli	0.000175	-1.91
+9	GO:0036465	synaptic vesicle recycling	Meeli	0.00436	-1.97
+9	GO:0098657	import into cell	Meeli	0.00542	-1.5
+9	GO:0098659	inorganic cation import across plasma membrane	Meeli	0.00566	-1.73
+9	GO:0009914	hormone transport	Meeli	0.00721	2.02
+9	GO:0098739	import across plasma membrane	Meeli	0.00845	-1.71
+10	GO:0015031	protein transport	both	Multifasciatus:5.67e-06;Meeli:7.01e-07	Multifasciatus:1.7;Meeli:1.76
+10	GO:0006406	mRNA export from nucleus	Multifasciatus	0.0368	1.73
+10	GO:0000054	ribosomal subunit export from nucleus	both	Multifasciatus:0.0404;Meeli:0.0318	Multifasciatus:1.83;Meeli:1.8
+10	GO:0015701	bicarbonate transport	Meeli	0.0112	-1.99
+10	GO:0042886	amide transport	Meeli	0.0235	1.79
+11	GO:0140053	mitochondrial gene expression	both	Multifasciatus:5.88e-06;Meeli:0.000317	Multifasciatus:2.33;Meeli:2.11
+11	GO:0002381	immunoglobulin production involved in immunoglobulin-mediated immune response	Meeli	0.00117	2.05
+11	GO:0010629	negative regulation of gene expression	Meeli	0.00257	-1.66
+11	GO:0002377	immunoglobulin production	Meeli	0.00903	1.88
+11	GO:0010608	post-transcriptional regulation of gene expression	Meeli	0.0228	-1.54
+12	GO:0016477	cell migration	both	Multifasciatus:0.000146;Meeli:0.00199	Multifasciatus:-1.69;Meeli:-1.54
+12	GO:0060632	regulation of microtubule-based movement	Meeli	0.0124	1.92
+12	GO:0030334	regulation of cell migration	Meeli	0.0125	-1.59
+13	GO:0070585	protein localization to mitochondrion	both	Multifasciatus:0.00033;Meeli:0.000317	Multifasciatus:2.19;Meeli:2.19
+13	GO:0033750	ribosome localization	both	Multifasciatus:0.0404;Meeli:0.0318	Multifasciatus:1.83;Meeli:1.8
+13	GO:1902414	protein localization to cell junction	Meeli	0.00034	-2.25
+13	GO:1903540	establishment of protein localization to postsynaptic membrane	Meeli	0.0122	-2
+15	GO:0071526	semaphorin-plexin signaling pathway	Multifasciatus	0.00132	-2
+15	GO:0050804	modulation of chemical synaptic transmission	both	Multifasciatus:0.0064;Meeli:1.28e-06	Multifasciatus:-1.64;Meeli:-2.17
+15	GO:0035249	synaptic transmission, glutamatergic	Multifasciatus	0.0247	-1.66
+15	GO:0051056	regulation of small GTPase mediated signal transduction	Multifasciatus	0.0391	-1.5
+15	GO:0099536	synaptic signaling	Meeli	2.33e-06	-1.79
+15	GO:0007169	cell surface receptor protein tyrosine kinase signaling pathway	Meeli	0.000178	-1.72
+15	GO:0060070	canonical Wnt signaling pathway	Meeli	0.00094	-1.79
+15	GO:0008286	insulin receptor signaling pathway	Meeli	0.0118	-1.97
+15	GO:0099565	chemical synaptic transmission, postsynaptic	Meeli	0.0163	-1.93
+15	GO:0098962	regulation of postsynaptic neurotransmitter receptor activity	Meeli	0.0261	-1.85
+15	GO:0035329	hippo signaling	Meeli	0.029	-1.82
+15	GO:0007218	neuropeptide signaling pathway	Meeli	0.0377	1.64
+16	GO:0006936	muscle contraction	Multifasciatus	0.00194	-1.93
+16	GO:0006937	regulation of muscle contraction	Multifasciatus	0.0303	-1.74
+16	GO:0050905	neuromuscular process	Multifasciatus	0.0496	-1.84
+16	GO:0050877	nervous system process	Meeli	0.00277	-1.59
+18	GO:0032259	methylation	Multifasciatus	0.00264	1.83
+18	GO:0090407	organophosphate biosynthetic process	Multifasciatus	0.0058	1.5
+18	GO:0044282	small molecule catabolic process	both	Multifasciatus:0.00791;Meeli:0.00566	Multifasciatus:1.61;Meeli:1.67
+18	GO:1901137	carbohydrate derivative biosynthetic process	both	Multifasciatus:0.0293;Meeli:0.000131	Multifasciatus:1.39;Meeli:1.66
+18	GO:0043413	macromolecule glycosylation	Meeli	0.00208	1.73
+18	GO:0070085	glycosylation	Meeli	0.00222	1.75
+18	GO:0044283	small molecule biosynthetic process	Meeli	0.00555	1.59
+18	GO:0046034	ATP metabolic process	Meeli	0.00841	1.74
+18	GO:0006066	alcohol metabolic process	Meeli	0.0496	1.46
+19	GO:0002822	regulation of adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains	Multifasciatus	0.0103	1.94
+19	GO:0002684	positive regulation of immune system process	Meeli	0.000192	1.77
+19	GO:0002696	positive regulation of leukocyte activation	Meeli	0.00112	1.78
+19	GO:0006955	immune response	Meeli	0.00115	1.54
+19	GO:0050778	positive regulation of immune response	Meeli	0.00808	1.75
+20	GO:0006805	xenobiotic metabolic process	Multifasciatus	0.0117	1.91
+20	GO:0009410	response to xenobiotic stimulus	Multifasciatus	0.0117	1.91
+20	GO:0006979	response to oxidative stress	Multifasciatus	0.0409	1.61
+20	GO:0035967	cellular response to topologically incorrect protein	Meeli	0.0209	1.7
+20	GO:0035966	response to topologically incorrect protein	Meeli	0.0272	1.64
+23	GO:0051051	negative regulation of transport	Multifasciatus	0.0181	1.77
+23	GO:0002791	regulation of peptide secretion	Meeli	0.0102	1.94
+23	GO:0032411	positive regulation of transporter activity	Meeli	0.018	-1.95
+23	GO:0032414	positive regulation of ion transmembrane transporter activity	Meeli	0.018	-1.95
+23	GO:0010766	negative regulation of sodium ion transport	Meeli	0.0211	-1.94
+23	GO:0051048	negative regulation of secretion	Meeli	0.0391	1.8
+24	GO:0055074	calcium ion homeostasis	both	Multifasciatus:0.0215;Meeli:0.0446	Multifasciatus:-1.65;Meeli:-1.52
+24	GO:0006874	intracellular calcium ion homeostasis	both	Multifasciatus:0.0293;Meeli:0.0341	Multifasciatus:-1.61;Meeli:-1.6
+24	GO:0048878	chemical homeostasis	Multifasciatus	0.0393	-1.37
+24	GO:0050801	monoatomic ion homeostasis	Meeli	0.00542	-1.57
+24	GO:0099072	regulation of postsynaptic membrane neurotransmitter receptor levels	Meeli	0.00709	-1.87
+24	GO:0051453	regulation of intracellular pH	Meeli	0.018	-1.86
+24	GO:0031647	regulation of protein stability	Meeli	0.0204	1.88
+25	GO:0040007	growth	Multifasciatus	0.0246	-1.6
+25	GO:0048640	negative regulation of developmental growth	Multifasciatus	0.0345	-1.69
+25	GO:0048589	developmental growth	Multifasciatus	0.0403	-1.59
+25	GO:0040011	locomotion	Multifasciatus	0.0413	-1.4
+25	GO:0045926	negative regulation of growth	Multifasciatus	0.0496	-1.69
+25	GO:0007610	behavior	Meeli	0.00735	1.93
+25	GO:0040013	negative regulation of locomotion	Meeli	0.05	-1.62

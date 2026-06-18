@@ -1,0 +1,13 @@
+cluster	representative_GO	Description	both	Meeli	Multifasciatus
+1	GO:0007601	visual perception	1	1	0
+4	GO:0000902	cell morphogenesis	0	1	3
+5	GO:0051128	regulation of cellular component organization	1	3	14
+6	GO:0051606	detection of stimulus	3	2	7
+7	GO:0008277	regulation of G protein-coupled receptor signaling pathway	0	3	7
+8	GO:0007017	microtubule-based process	2	1	10
+11	GO:0006310	DNA recombination	0	8	3
+14	GO:0045926	negative regulation of growth	0	1	6
+15	GO:0006405	RNA export from nucleus	0	3	2
+16	GO:0010558	negative regulation of macromolecule biosynthetic process	0	8	1
+17	GO:0048002	antigen processing and presentation of peptide antigen	0	1	2
+19	GO:0006911	phagocytosis, engulfment	0	1	1

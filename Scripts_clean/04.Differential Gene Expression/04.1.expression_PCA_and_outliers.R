@@ -1,4 +1,4 @@
-# This script performs PCA and outlier detection prior to Differential Gene Expression analysis.
+# This script performs PCA and outlier detection on gene counts prior to Differential Gene Expression analysis.
 
 # Load libraries
 {

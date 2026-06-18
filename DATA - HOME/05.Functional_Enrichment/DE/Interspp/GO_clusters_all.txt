@@ -1,0 +1,158 @@
+GO	cluster	Description	NES_sol_Mu	NES_grp_Mu	category_Mu	delta_NES_Mu	NES_sol_Me	NES_grp_Me	category_Me	delta_NES_Me
+GO:0006955	1	immune response	-1.88143928747682	-1.81475976840358	shared_same_direction	0.0666795190732399	NA	NA	NA	NA
+GO:0030036	2	actin cytoskeleton organization	-1.86654616090791	-1.93083779244883	shared_same_direction	-0.0642916315409201	NA	NA	NA	NA
+GO:0030029	2	actin filament-based process	-1.84454348696246	-1.90158512364539	shared_same_direction	-0.0570416366829301	NA	NA	NA	NA
+GO:0007160	3	cell-matrix adhesion	-2.27718136198783	NA	solitary_specific	NA	NA	NA	NA	NA
+GO:0007229	4	integrin-mediated signaling pathway	-2.33816257476602	-2.26291957389262	shared_same_direction	0.0752430008734	NA	NA	NA	NA
+GO:0033627	3	cell adhesion mediated by integrin	-2.31010876337077	-2.20163089338691	shared_same_direction	0.10847786998386	NA	NA	NA	NA
+GO:1902531	4	regulation of intracellular signal transduction	-1.70405216817656	-1.56050485020036	shared_same_direction	0.1435473179762	NA	NA	NA	NA
+GO:0007156	3	homophilic cell adhesion via plasma membrane adhesion molecules	2.04865548299016	NA	solitary_specific	NA	NA	NA	NA	NA
+GO:0007268	5	chemical synaptic transmission	1.68207201952948	NA	solitary_specific	NA	NA	NA	NA	NA
+GO:0006954	6	inflammatory response	-1.94442070949883	-1.80365263650782	shared_same_direction	0.14076807299101	NA	NA	NA	NA
+GO:0034097	7	response to cytokine	-1.94054594755717	-1.76549670339422	shared_same_direction	0.17504924416295	NA	NA	NA	NA
+GO:1901652	7	response to peptide	-1.94054594755717	-1.76549670339422	shared_same_direction	0.17504924416295	NA	NA	NA	NA
+GO:0071345	7	cellular response to cytokine stimulus	-1.87497493157319	-1.72366804872463	shared_same_direction	0.15130688284856	NA	NA	NA	NA
+GO:0072359	8	circulatory system development	-1.84131077989981	-1.78464988304844	shared_same_direction	0.05666089685137	NA	NA	NA	NA
+GO:0048870	9	cell motility	-1.58466884112128	-1.61520334983688	shared_same_direction	-0.0305345087156002	NA	NA	NA	NA
+GO:0006260	10	DNA replication	1.98614014498314	NA	solitary_specific	NA	NA	NA	NA	NA
+GO:0006520	10	amino acid metabolic process	1.75992499920498	NA	solitary_specific	NA	NA	NA	NA	NA
+GO:0022613	11	ribonucleoprotein complex biogenesis	1.68389683163257	1.90699752553539	shared_same_direction	0.22310069390282	2.14888155911042	NA	solitary_specific	NA
+GO:0051336	12	regulation of hydrolase activity	-1.70634550302448	-1.54504379273065	shared_same_direction	0.16130171029383	NA	NA	NA	NA
+GO:0060326	9	cell chemotaxis	-2.01191425775411	-1.77728944648085	shared_same_direction	0.23462481127326	NA	NA	NA	NA
+GO:0019882	1	antigen processing and presentation	-2.06442291462124	-2.4053282823538	shared_same_direction	-0.34090536773256	NA	NA	NA	NA
+GO:0006753	13	nucleoside phosphate metabolic process	1.5663607431539	1.57346680508577	shared_same_direction	0.00710606193187013	1.54903580050506	1.51870446690333	shared_same_direction	-0.0303313336017299
+GO:0097435	11	supramolecular fiber organization	-1.54781715126146	-1.73748251558778	shared_same_direction	-0.18966536432632	NA	NA	NA	NA
+GO:0048584	4	positive regulation of response to stimulus	-1.54051449695898	-1.37126564336279	shared_same_direction	0.16924885359619	NA	NA	NA	NA
+GO:0140546	6	defense response to symbiont	-1.84457619707892	-1.80553769505827	shared_same_direction	0.0390385020206501	NA	NA	NA	NA
+GO:0016064	1	immunoglobulin mediated immune response	-1.97882185518224	-2.16202406201514	shared_same_direction	-0.1832022068329	NA	NA	NA	NA
+GO:0035329	4	hippo signaling	-2.07852206688297	NA	solitary_specific	NA	NA	NA	NA	NA
+GO:0044272	10	sulfur compound biosynthetic process	1.8808379078023	NA	solitary_specific	NA	NA	NA	NA	NA
+GO:0002503	14	peptide antigen assembly with MHC class II protein complex	-2.0299394022109	-2.32417799590295	shared_same_direction	-0.29423859369205	NA	NA	NA	NA
+GO:0002443	1	leukocyte mediated immunity	-1.89403530321649	-2.19525736758284	shared_same_direction	-0.30122206436635	NA	NA	NA	NA
+GO:0006418	10	tRNA aminoacylation for protein translation	2.04234686518166	NA	solitary_specific	NA	NA	NA	NA	NA
+GO:0006259	13	DNA metabolic process	1.4939063467683	1.53035531621754	shared_same_direction	0.03644896944924	NA	NA	NA	NA
+GO:0051965	15	positive regulation of synapse assembly	2.03329726699073	NA	solitary_specific	NA	NA	NA	NA	NA
+GO:0090407	10	organophosphate biosynthetic process	1.49247738523861	1.64430830628075	shared_same_direction	0.15183092104214	NA	NA	NA	NA
+GO:0050727	6	regulation of inflammatory response	-1.99099275242365	-1.81304967221034	shared_same_direction	0.17794308021331	NA	NA	NA	NA
+GO:0070585	16	protein localization to mitochondrion	1.97581455514514	1.99055132373729	shared_same_direction	0.01473676859215	NA	NA	NA	NA
+GO:0009060	17	aerobic respiration	1.84244022097141	2.04241004172918	shared_same_direction	0.19996982075777	2.28063289925555	NA	solitary_specific	NA
+GO:0009605	6	response to external stimulus	-1.48415093643135	NA	solitary_specific	NA	NA	NA	NA	NA
+GO:1901137	10	carbohydrate derivative biosynthetic process	1.47719578286169	NA	solitary_specific	NA	NA	NA	NA	NA
+GO:0045103	11	intermediate filament-based process	-1.94903700484816	-1.79249763382511	shared_same_direction	0.15653937102305	NA	NA	NA	NA
+GO:0045104	11	intermediate filament cytoskeleton organization	-1.94903700484816	-1.79249763382511	shared_same_direction	0.15653937102305	NA	NA	NA	NA
+GO:0006839	18	mitochondrial transport	1.82543724498463	1.99342279193472	shared_same_direction	0.16798554695009	NA	NA	NA	NA
+GO:0170039	19	proteinogenic amino acid metabolic process	1.78451451195915	1.87459367592529	shared_same_direction	0.09007916396614	NA	NA	NA	NA
+GO:0007005	11	mitochondrion organization	1.67556445764582	1.92862928182062	shared_same_direction	0.2530648241748	1.61854199227477	1.78841422897095	shared_same_direction	0.16987223669618
+GO:0048646	8	anatomical structure formation involved in morphogenesis	-1.7108428712649	-1.49845407164835	shared_same_direction	0.21238879961655	NA	NA	NA	NA
+GO:0007601	20	visual perception	-1.81975564480613	NA	solitary_specific	NA	NA	NA	NA	NA
+GO:0048699	8	generation of neurons	1.39494259669845	NA	solitary_specific	NA	NA	NA	NA	NA
+GO:0007009	11	plasma membrane organization	-1.79059857520595	-1.73089362158113	shared_same_direction	0.05970495362482	NA	NA	NA	NA
+GO:0043603	10	amide metabolic process	1.57626301205369	1.43872325895414	shared_same_direction	-0.13753975309955	NA	NA	NA	NA
+GO:0006637	13	acyl-CoA metabolic process	1.85844663503324	NA	solitary_specific	NA	NA	NA	NA	NA
+GO:0044283	10	small molecule biosynthetic process	1.53762139123437	1.4940948605213	shared_same_direction	-0.0435265307130699	NA	NA	NA	NA
+GO:0001525	8	angiogenesis	-1.70892470905445	NA	solitary_specific	NA	NA	NA	NA	NA
+GO:0006605	16	protein targeting	1.66441541914332	1.63244058490334	shared_same_direction	-0.0319748342399799	NA	1.86740177690589	group_specific	NA
+GO:0044782	11	cilium organization	-1.5478845785718	NA	solitary_specific	NA	-1.59091693303689	-1.86355768779276	shared_same_direction	-0.27264075475587
+GO:1990542	18	mitochondrial transmembrane transport	1.82832577212093	2.06746769595402	shared_same_direction	0.23914192383309	NA	NA	NA	NA
+GO:0006935	9	chemotaxis	-1.60677396209541	-1.78048714019315	shared_same_direction	-0.17371317809774	NA	NA	NA	NA
+GO:0050804	5	modulation of chemical synaptic transmission	1.59021560325211	NA	solitary_specific	NA	NA	NA	NA	NA
+GO:0051604	13	protein maturation	1.48325519708024	NA	solitary_specific	NA	NA	1.54525773202655	group_specific	NA
+GO:0007187	4	G protein-coupled receptor signaling pathway, coupled to cyclic nucleotide second messenger	1.9323923626298	NA	solitary_specific	NA	NA	NA	NA	NA
+GO:0008610	10	lipid biosynthetic process	1.41813521332104	1.40507259232083	shared_same_direction	-0.0130626210002101	NA	NA	NA	NA
+GO:0031333	2	negative regulation of protein-containing complex assembly	-1.7950985552375	NA	solitary_specific	NA	NA	NA	NA	NA
+GO:0060271	11	cilium assembly	-1.5299965011155	NA	solitary_specific	NA	NA	-1.89565603907921	group_specific	NA
+GO:0044092	12	negative regulation of molecular function	-1.58569059868452	NA	solitary_specific	NA	NA	NA	NA	NA
+GO:0050803	21	regulation of synapse structure or activity	1.78489599263917	NA	solitary_specific	NA	NA	NA	NA	NA
+GO:0051492	2	regulation of stress fiber assembly	-1.85394002631286	NA	solitary_specific	NA	NA	NA	NA	NA
+GO:0030837	2	negative regulation of actin filament polymerization	-1.74306952938244	-1.93139499469749	shared_same_direction	-0.18832546531505	NA	NA	NA	NA
+GO:0002764	4	immune response-regulating signaling pathway	-1.62612242103897	NA	solitary_specific	NA	NA	NA	NA	NA
+GO:0170034	22	L-amino acid biosynthetic process	1.76571272982768	NA	solitary_specific	NA	NA	NA	NA	NA
+GO:0032956	2	regulation of actin cytoskeleton organization	-1.56819573869986	NA	solitary_specific	NA	NA	NA	NA	NA
+GO:0046394	10	carboxylic acid biosynthetic process	1.59186681135946	NA	solitary_specific	NA	NA	NA	NA	NA
+GO:0032970	2	regulation of actin filament-based process	-1.52419245353787	-1.64292598704121	shared_same_direction	-0.11873353350334	NA	NA	NA	NA
+GO:0031589	3	cell-substrate adhesion	NA	-2.08321786221698	group_specific	NA	NA	NA	NA	NA
+GO:0006082	10	organic acid metabolic process	NA	1.66029124391292	group_specific	NA	NA	NA	NA	NA
+GO:1902969	10	mitotic DNA replication	NA	2.2191395318497	group_specific	NA	NA	NA	NA	NA
+GO:1902904	2	negative regulation of supramolecular fiber organization	NA	-1.9925397533096	group_specific	NA	NA	NA	NA	NA
+GO:0051494	2	negative regulation of cytoskeleton organization	NA	-1.96435377478484	group_specific	NA	NA	NA	NA	NA
+GO:0002377	13	immunoglobulin production	NA	-1.99300627342235	group_specific	NA	NA	NA	NA	NA
+GO:0006412	10	translation	NA	1.57879681953851	group_specific	NA	2.20791367427615	1.85632919272453	shared_same_direction	-0.35158448155162
+GO:0071826	11	protein-RNA complex organization	NA	1.85026632687965	group_specific	NA	1.95434036617952	NA	solitary_specific	NA
+GO:0022618	11	protein-RNA complex assembly	NA	1.85438633665292	group_specific	NA	1.88583377506946	NA	solitary_specific	NA
+GO:0006399	13	tRNA metabolic process	NA	1.70112619781185	group_specific	NA	NA	NA	NA	NA
+GO:0140053	13	mitochondrial gene expression	NA	1.91268885476765	group_specific	NA	1.78599221576528	1.85899585652198	shared_same_direction	0.0730036407567001
+GO:0032535	11	regulation of cellular component size	NA	-1.60258011873843	group_specific	NA	NA	NA	NA	NA
+GO:0098609	3	cell-cell adhesion	NA	-1.38415767352614	group_specific	NA	NA	NA	NA	NA
+GO:0009615	6	response to virus	NA	1.94755493962004	group_specific	NA	NA	NA	NA	NA
+GO:0170040	23	proteinogenic amino acid catabolic process	NA	1.84630108328171	group_specific	NA	NA	NA	NA	NA
+GO:0000963	13	mitochondrial RNA processing	NA	1.99069837864612	group_specific	NA	NA	NA	NA	NA
+GO:0032200	11	telomere organization	NA	1.81625893284074	group_specific	NA	NA	NA	NA	NA
+GO:0042255	11	ribosome assembly	NA	1.85167026045927	group_specific	NA	NA	NA	NA	NA
+GO:0006364	13	rRNA processing	NA	1.54577545441924	group_specific	NA	1.81816116539123	NA	solitary_specific	NA
+GO:0006790	10	sulfur compound metabolic process	NA	1.50796755661472	group_specific	NA	NA	NA	NA	NA
+GO:0035337	13	fatty-acyl-CoA metabolic process	NA	1.92464681252724	group_specific	NA	NA	NA	NA	NA
+GO:0170033	24	L-amino acid metabolic process	NA	1.65208442393583	group_specific	NA	NA	NA	NA	NA
+GO:0045785	3	positive regulation of cell adhesion	NA	-1.54628711519468	group_specific	NA	NA	NA	NA	NA
+GO:0018057	13	peptidyl-lysine oxidation	NA	-1.80643271007718	group_specific	NA	NA	NA	NA	NA
+GO:0002682	4	regulation of immune system process	NA	-1.38818783223795	group_specific	NA	NA	NA	NA	NA
+GO:0170036	25	import into the mitochondrion	NA	1.83671429209256	group_specific	NA	NA	NA	NA	NA
+GO:0040011	9	locomotion	NA	-1.40875493038048	group_specific	NA	NA	NA	NA	NA
+GO:0072594	16	establishment of protein localization to organelle	NA	NA	NA	NA	1.86298617890906	1.77184607909114	shared_same_direction	-0.0911400998179202
+GO:0045047	16	protein targeting to ER	NA	NA	NA	NA	2.16289325235021	NA	solitary_specific	NA
+GO:0006913	18	nucleocytoplasmic transport	NA	NA	NA	NA	1.90807304245263	NA	solitary_specific	NA
+GO:0016072	13	rRNA metabolic process	NA	NA	NA	NA	1.81811132913316	NA	solitary_specific	NA
+GO:0008361	11	regulation of cell size	NA	NA	NA	NA	-2.00359339445051	NA	solitary_specific	NA
+GO:0072521	13	purine-containing compound metabolic process	NA	NA	NA	NA	1.55712835252071	NA	solitary_specific	NA
+GO:0051205	16	protein insertion into membrane	NA	NA	NA	NA	1.97883561313031	2.15994508707892	shared_same_direction	0.18110947394861
+GO:0003341	3	cilium movement	NA	NA	NA	NA	-1.92996570451517	NA	solitary_specific	NA
+GO:0120035	11	regulation of plasma membrane bounded cell projection organization	NA	NA	NA	NA	-1.63286530851436	NA	solitary_specific	NA
+GO:0043687	13	post-translational protein modification	NA	NA	NA	NA	1.4807169724526	NA	solitary_specific	NA
+GO:0055064	21	chloride ion homeostasis	NA	NA	NA	NA	-2.03034078062686	-2.21346408456845	shared_same_direction	-0.18312330394159
+GO:0055081	21	monoatomic anion homeostasis	NA	NA	NA	NA	-2.03034078062686	-2.21346408456845	shared_same_direction	-0.18312330394159
+GO:0006606	16	protein import into nucleus	NA	NA	NA	NA	1.822587847464	NA	solitary_specific	NA
+GO:0033108	11	mitochondrial respiratory chain complex assembly	NA	NA	NA	NA	1.85708453822881	NA	solitary_specific	NA
+GO:0006403	26	RNA localization	NA	NA	NA	NA	1.81368128406519	NA	solitary_specific	NA
+GO:0015849	26	organic acid transport	NA	NA	NA	NA	-1.64552443599899	NA	solitary_specific	NA
+GO:0071346	7	cellular response to type II interferon	NA	NA	NA	NA	1.91821287712049	NA	solitary_specific	NA
+GO:0042594	6	response to starvation	NA	NA	NA	NA	1.82539282143571	NA	solitary_specific	NA
+GO:0015711	26	organic anion transport	NA	NA	NA	NA	-1.59155787566236	NA	solitary_specific	NA
+GO:0050658	26	RNA transport	NA	NA	NA	NA	1.82341308638997	NA	solitary_specific	NA
+GO:0046148	27	pigment biosynthetic process	NA	NA	NA	NA	1.92147084655815	NA	solitary_specific	NA
+GO:0030163	13	protein catabolic process	NA	NA	NA	NA	1.44275238567037	1.4780841139064	shared_same_direction	0.0353317282360301
+GO:0002548	9	monocyte chemotaxis	NA	NA	NA	NA	1.92132055706255	2.08374835571655	shared_same_direction	0.162427798654
+GO:0006397	13	mRNA processing	NA	NA	NA	NA	1.47672465334354	NA	solitary_specific	NA
+GO:0030488	13	tRNA methylation	NA	NA	NA	NA	1.85651913440119	NA	solitary_specific	NA
+GO:0022904	17	respiratory electron transport chain	NA	NA	NA	NA	NA	2.21827879007646	group_specific	NA
+GO:0006884	11	cell volume homeostasis	NA	NA	NA	NA	NA	-2.2188585976022	group_specific	NA
+GO:0032981	11	mitochondrial respiratory chain complex I assembly	NA	NA	NA	NA	NA	2.17451156259723	group_specific	NA
+GO:0043484	13	regulation of RNA splicing	NA	NA	NA	NA	NA	-1.98577845654041	group_specific	NA
+GO:0042254	11	ribosome biogenesis	NA	NA	NA	NA	NA	1.73248067197623	group_specific	NA
+GO:0098542	6	defense response to other organism	NA	NA	NA	NA	NA	1.73925329217277	group_specific	NA
+GO:0006952	6	defense response	NA	NA	NA	NA	NA	1.6183845039238	group_specific	NA
+GO:0006457	3	protein folding	NA	NA	NA	NA	NA	1.71712975189804	group_specific	NA
+GO:0007018	3	microtubule-based movement	NA	NA	NA	NA	NA	-1.60870236058141	group_specific	NA
+GO:0046034	27	ATP metabolic process	NA	NA	NA	NA	NA	1.82289948101896	group_specific	NA
+GO:0071347	7	cellular response to interleukin-1	NA	NA	NA	NA	NA	2.03273721923518	group_specific	NA
+GO:0034612	7	response to tumor necrosis factor	NA	NA	NA	NA	NA	1.89398703863592	group_specific	NA
+GO:0071356	7	cellular response to tumor necrosis factor	NA	NA	NA	NA	NA	1.89398703863592	group_specific	NA
+GO:0001578	11	microtubule bundle formation	NA	NA	NA	NA	NA	-1.87351393170822	group_specific	NA
+GO:0070374	4	positive regulation of ERK1 and ERK2 cascade	NA	NA	NA	NA	NA	1.81727908255926	group_specific	NA
+GO:0031667	6	response to nutrient levels	NA	NA	NA	NA	NA	1.81292284603017	group_specific	NA
+GO:0006888	18	endoplasmic reticulum to Golgi vesicle-mediated transport	NA	NA	NA	NA	NA	1.72727398797732	group_specific	NA
+GO:0006883	28	intracellular sodium ion homeostasis	NA	NA	NA	NA	NA	1.98552797481548	group_specific	NA
+GO:0036376	18	sodium ion export across plasma membrane	NA	NA	NA	NA	NA	1.98552797481548	group_specific	NA
+GO:1902476	18	chloride transmembrane transport	NA	NA	NA	NA	NA	-1.85888605752439	group_specific	NA
+GO:0007017	3	microtubule-based process	NA	NA	NA	NA	NA	-1.39367816260306	group_specific	NA
+GO:0016180	13	snRNA processing	NA	NA	NA	NA	NA	1.94312184135795	group_specific	NA
+GO:0006805	7	xenobiotic metabolic process	NA	NA	NA	NA	NA	-1.92560441425261	group_specific	NA
+GO:0009410	7	response to xenobiotic stimulus	NA	NA	NA	NA	NA	-1.92560441425261	group_specific	NA
+GO:0072676	9	lymphocyte migration	NA	NA	NA	NA	NA	1.87271439478313	group_specific	NA
+GO:1902600	18	proton transmembrane transport	NA	NA	NA	NA	NA	1.83628144794066	group_specific	NA
+GO:0070098	7	chemokine-mediated signaling pathway	NA	NA	NA	NA	NA	1.96817504416326	group_specific	NA
+GO:1990868	7	response to chemokine	NA	NA	NA	NA	NA	1.96817504416326	group_specific	NA
+GO:0070555	7	response to interleukin-1	NA	NA	NA	NA	NA	1.93394230625903	group_specific	NA
+GO:0035194	29	regulatory ncRNA-mediated post-transcriptional gene silencing	NA	NA	NA	NA	NA	-1.90145934217538	group_specific	NA
+GO:0072524	13	pyridine-containing compound metabolic process	NA	NA	NA	NA	NA	1.68831530878216	group_specific	NA
+GO:0050776	4	regulation of immune response	NA	NA	NA	NA	NA	1.59629774583794	group_specific	NA
+GO:0022402	3	cell cycle process	NA	NA	NA	NA	NA	-1.37629354665068	group_specific	NA
+GO:0097352	30	autophagosome maturation	NA	NA	NA	NA	NA	-1.91909109352921	group_specific	NA
