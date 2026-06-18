@@ -1,9 +1,8 @@
 # This script computes semantic similarity between GO terms enriched 
 # in the two comparisons, clusters them based on similarity, 
-# and identifies shared clusters between datasets. It also annotates 
-# clusters with representative GO terms and summarizes the number of 
-# GO terms per cluster and dataset.
+# and identifies shared clusters between datasets. 
 
+# Load libraries
 {
     library(GOSemSim) # version 2.36.0
     library(GO.db) # version 3.22.0
@@ -14,17 +13,21 @@
     library(dplyr) # version 1.1.4
 }
 
+
 # Set region
 region <- "TL"
 
 # Set paths and read files.
 home <- path.expand("~")
 path_datasets <- file.path(home, "05.Functional Enrichment", region, "GSEA_datasets")
-out_dir <- file.path(home, "05.Functional Enrichment", region, "intraspp_common", "GO_similarity")
+out_dir <- file.path(home, "05.Functional Enrichment", region, "intraspp", "GO_similarity")
 
 # Download tilapia functional annotation data
 ah <- AnnotationHub()
 org.Oni.eg.db <- ah[["AH119811"]]
+
+# Build semantic data (REQUIRED for mgoSim)
+semData <- godata(annoDb = org.Oni.eg.db, ont = "BP")
 
 
 # INDEX
@@ -34,8 +37,7 @@ org.Oni.eg.db <- ah[["AH119811"]]
 # 4. Cluster GO terms based on similarity.
 # 5. Annotate dataset origin for each GO term.
 # 6. Identify clusters shared between datasets and add adjusted p-values and Normalized Enrichment Score.
-# 7. Get representative GO term for each shared cluster.
-# 8. Summarize number of GO terms per cluster and dataset, and add representative.
+# 7. Summarize number of GO terms per cluster and dataset, and add representative.
 
 
 
@@ -103,7 +105,7 @@ cluster_df <- data.frame(
   GO = names(cluster_assign),
   cluster = cluster_assign
 )
-cluster_df$Description <- get_go_description(cluster_df$GO)
+cluster_df$Description <- get_go_terms(cluster_df$GO)
 
 
 # 5. Annotate dataset origin for each GO term
@@ -125,7 +127,7 @@ shared_clusters_flag <- with(cluster_df, tapply(set, cluster, function(x) {
 # Get GO terms from shared clusters and their descriptions
 shared_cluster_ids <- names(shared_clusters_flag[shared_clusters_flag])
 shared_df <- cluster_df[cluster_df$cluster %in% shared_cluster_ids, ]
-shared_df$Description <- get_go_description(shared_df$GO)
+shared_df$Description <- get_go_terms(shared_df$GO)
 
 # Add adjusted p-values and Normalized Enrichment Score from initial datasets
 padj1 <- ds_deg1$p.adjust
@@ -171,46 +173,18 @@ write.table(shared_df_ord,
             sep = "\t", quote = FALSE, row.names = FALSE)
 
 
-# 7. Get representative GO term for each shared cluster
-# -----------------------------------------------------
-# Function to get representative GO term for a cluster based on average semantic similarity
-get_representative <- function(cluster_id, sim_matrix, clusters) {
-  terms <- names(clusters[clusters == cluster_id])
-  sub_sim <- sim_matrix[terms, terms, drop = FALSE]
-  mean_sim <- rowMeans(sub_sim, na.rm = TRUE)
-  rep_term <- names(which.max(mean_sim))
-  return(rep_term)
-}
-
-# Get representative GO term for each shared cluster
-cluster_ids <- unique(shared_df$cluster)
-representatives <- sapply(cluster_ids, function(cl) {
-  get_representative(cl, sim_all, cluster_assign)
-})
-
-# Create a data frame with cluster IDs and their representative GO terms
-cluster_labels <- data.frame(
-  cluster = cluster_ids,
-  representative_GO = representatives
-)
-
-# Add GO term descriptions for representative GO terms
-cluster_labels$Description <- get_go_description(cluster_labels$representative_GO)
-
-
-# 8. Summarize number of GO terms per cluster and dataset, and add representative
-# --------------------------------------------------------------------------------
+# 7. Summarize number of GO terms per cluster and dataset
+# --------------------------------------------------------
 cluster_summary <- aggregate(GO ~ cluster + set, data = shared_df, length)
-cluster_wide <- cluster_summary %>%
+final_table <- cluster_summary %>%
   pivot_wider(
     names_from = set,
     values_from = GO,
     values_fill = 0   # fills missing combinations with 0
   )
 
-final_table <- merge(cluster_wide, cluster_labels, by = "cluster", all.x = TRUE)
-
+# Order the final summary table columns cleanly
 final_table <- final_table %>%
-  select(cluster, representative_GO, Description, both, Meeli, Multifasciatus)
+  select(cluster, both, Meeli, Multifasciatus)
 
 write.table(final_table, file.path(out_dir, "cluster_summary_GOcounts.txt"), sep = "\t", quote = F, row.names = FALSE)
