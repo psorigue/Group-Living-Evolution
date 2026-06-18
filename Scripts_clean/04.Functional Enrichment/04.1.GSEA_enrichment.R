@@ -15,8 +15,8 @@ region <- "TL"
 
 # Set paths and read files.
 home <- path.expand("~")
-path_deg <- file.path(home, "04.Differential_Gene_Expression", region)
-path_enrich <- file.path(home, "05.Functional_Enrichment", region, "GSEA_datasets")
+path_deg <- file.path(home, "04.Differential Gene Expression", region)
+path_enrich <- file.path(home, "05.Functional Enrichment", region, "GSEA_datasets")
 file_gene_info <- file.path(home, "Ref_genome", "gene_info_full.txt")
 
 # Download tilapia functional annotation data

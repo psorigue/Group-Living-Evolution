@@ -25,9 +25,9 @@ region <- "DE"
 
 # Set paths and read files.
 home <- path.expand("~")
-file_cts <- file.path(home, "03.Mapping_and_Counts", "counts_all_samples.txt") 
-file_metadata <- file.path(home, "03.Mapping_and_Counts", "metadata.txt")
-path_deg <- file.path(home, "04.Differential_Gene_Expression")
+file_cts <- file.path(home, "03.Mapping and Counts", "counts_all_samples.txt") 
+file_metadata <- file.path(home, "03.Mapping and Counts", "metadata.txt")
+path_deg <- file.path(home, "04.Differential Gene Expression")
 
 # Read files. The datasets are already curated 
 cts <- read.csv(file = file_cts, sep = "\t", header = T, row.names = 1)

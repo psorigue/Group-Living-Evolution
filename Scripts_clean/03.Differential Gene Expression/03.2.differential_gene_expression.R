@@ -16,9 +16,9 @@ region <- "TL"
 
 # Set paths and read files.
 home <- path.expand("~")
-file_cts <- file.path(home, "03.Mapping_and_Counts", "counts_all_samples.txt") 
-file_metadata <- file.path(home, "03.Mapping_and_Counts", "metadata.txt")
-path_deg <- file.path(home, "04.Differential_Gene_Expression", region)
+file_cts <- file.path(home, "03.Mapping and Counts", "counts_all_samples.txt") 
+file_metadata <- file.path(home, "03.Mapping and Counts", "metadata.txt")
+path_deg <- file.path(home, "04.Differential Gene Expression", region)
 file_gene_info <- file.path(home, "Ref_genome", "gene_info_full.txt")
 
 

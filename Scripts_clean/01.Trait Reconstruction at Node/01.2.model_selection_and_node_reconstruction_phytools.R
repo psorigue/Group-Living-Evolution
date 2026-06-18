@@ -11,8 +11,8 @@ library(ape) # version 5.8-1
 # Set paths and files
 home <- path.expand("~")
 tree_file <- file.path(home, "01.Phenotypic characterization", "tree_grouping.nwk")
-pheno_data_file <- file.path(home, "01.Phenotypic_characterization", "template_grouping.txt")
-folder_out <- file.path(home, "02.Trait_Reconstruction_at_Node/")
+pheno_data_file <- file.path(home, "01.Phenotypic characterization", "template_grouping.txt")
+folder_out <- file.path(home, "02.Trait_Reconstruction at Node/")
 
 
 # INDEX

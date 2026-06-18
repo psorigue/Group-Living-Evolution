@@ -11,10 +11,10 @@ library(ape) # version 5.8-1
 
 # Set paths and files
 home <- path.expand("~")
-file_grouping <- file.path(home, "01.Phenotypic_characterization", "median_Nmax.csv")
-tree_tan_file <- file.path(home, "01.Phenotypic_characterization", "tree_tan.nwk") # Tree from Ronco et al. 2021
-file_out <- file.path(home, "01.Phenotypic_characterization", "template_grouping.txt")
-tree_out <- file.path(home, "01.Phenotypic_characterization", "tree_grouping.nwk")
+file_grouping <- file.path(home, "01.Phenotypic characterization", "median_Nmax.csv")
+tree_tan_file <- file.path(home, "01.Phenotypic characterization", "tree_tan.nwk") # Tree from Ronco et al. 2021
+file_out <- file.path(home, "01.Phenotypic characterization", "template_grouping.txt")
+tree_out <- file.path(home, "01.Phenotypic characterization", "tree_grouping.nwk")
 
 
 # INDEX

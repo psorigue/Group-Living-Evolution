@@ -5,7 +5,7 @@
 
 # 1. Set paths and files
 home <- path.expand("~")
-MBASR.directory <- file.path(home, "02.Trait_Reconstruction_at_Node", "MBASR", "repository")
+MBASR.directory <- file.path(home, "02.Trait Reconstruction at Node", "MBASR", "repository")
 setwd(MBASR.directory)
 source("MBASR.load.functions.R") # This file contains the functions to run MBASR. 
 # The source script and additional files needed to run MBASR are not contained 
@@ -22,4 +22,4 @@ n_samples <- 10000
 # 4. Run Single-trait MBASR
 MBASR(file_tree,file_trait,file_plot_settings,character.type = "unordered", n.samples = n_samples)
 
-# Resuls and tree plot are saved in the output folder.
+# Results and tree plot are saved in the output folder.

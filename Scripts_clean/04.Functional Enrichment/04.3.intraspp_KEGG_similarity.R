@@ -10,8 +10,8 @@ region <- "TL"
 
 # Set paths and read files.
 home <- path.expand("~")
-path_datasets <- file.path(home, "05.Functional_Enrichment", region, "GSEA_datasets")
-out_dir <- file.path(home, "05.Functional_Enrichment", region, "intraspp_common")
+path_datasets <- file.path(home, "05.Functional Enrichment", region, "GSEA_datasets")
+out_dir <- file.path(home, "05.Functional Enrichment", region, "intraspp_common")
 
 # Download tilapia functional annotation data
 kegg_info <- clusterProfiler::download_KEGG("onl")

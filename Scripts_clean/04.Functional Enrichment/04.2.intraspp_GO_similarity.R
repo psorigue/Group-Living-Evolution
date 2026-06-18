@@ -19,8 +19,8 @@ region <- "TL"
 
 # Set paths and read files.
 home <- path.expand("~")
-path_datasets <- file.path(home, "05.Functional_Enrichment", region, "GSEA_datasets")
-out_dir <- file.path(home, "05.Functional_Enrichment", region, "intraspp_common", "GO_similarity")
+path_datasets <- file.path(home, "05.Functional Enrichment", region, "GSEA_datasets")
+out_dir <- file.path(home, "05.Functional Enrichment", region, "intraspp_common", "GO_similarity")
 
 # Download tilapia functional annotation data
 ah <- AnnotationHub()
