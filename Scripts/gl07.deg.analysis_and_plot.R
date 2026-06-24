@@ -17,9 +17,9 @@ path_deg <- "//files1.igc.gulbenkian.pt/folders/ANB/Pol/Group_vs_solitary/05.DEG
 # Load DDSobject
 load(paste0(path_deg, region, "/DDS_files/DDSobj_all.RData")) # loads variable called dds_obj
 
-ref_spp <- "Multifasciatus_S" # Species reference
-dir_spp <- "Meeli_GL" # Species direction foldChange
-comp_name <- "MuS_vs_MeGL"
+ref_spp <- "Ornatipinnis_S" # Species reference
+dir_spp <- "Multifasciatus_GL" # Species direction foldChange
+comp_name <- "OrS_vs_MuGL"
 
 
 # DEG analysis
@@ -87,18 +87,23 @@ p <- ggplot(df, aes(x = log2FoldChange, y = negLog10Padj)) +
   scale_color_manual(
     values = c(
       "Up-regulated" = "#8B4500",
-      "Down-regulated" = "#104E8B",
+      "Down-regulated" = "gold2",
       "Not Significant" = "darkgray"
     ),
     labels = c(
-      "Up-regulated" = "N. meeli",
-      "Down-regulated" = "L. ornatipinnis",
+      "Up-regulated" = expression(italic("N.multifasciatus")),
+      "Down-regulated" = expression(italic("L.ornatipinnis")),
       "Not Significant" = "None"
+    ),
+    breaks = c(
+      "Up-regulated",
+      "Down-regulated",
+      "Not Significant"
     )
   ) +
   
   labs(
-    title = "Diencephalon",
+    title = "Telencephalon",
     x = "Log2 Fold Change",
     y = "-log10(adj. p-value)",
     color = "Up-Regulation"
@@ -112,14 +117,14 @@ p <- ggplot(df, aes(x = log2FoldChange, y = negLog10Padj)) +
     axis.ticks = element_line(color = "black"),
     plot.title = element_text(hjust = 0.5, face = "bold")
   ) +
-  theme(legend.position = "none") +
+  #theme(legend.position = "none") +
   
   coord_flip()
 
 p
 path_plot <- paste0(path_deg, region, "/volcanos/",
-                    comp_name, ".pdf")
-ggsave(plot = p, filename = path_plot, device = "pdf", width = 5, height = 3)
+                    comp_name, "legend_small.pdf")
+ggsave(plot = p, filename = path_plot, device = "pdf", width = 3, height = 2)
 
 
 

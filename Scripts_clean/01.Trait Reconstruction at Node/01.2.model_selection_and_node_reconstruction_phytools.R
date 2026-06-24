@@ -100,7 +100,7 @@ write.table(pan, file = paste0(folder_out, "probab_nodes_ER.txt"),
 plotTree(tree,node.numbers=T, fsize = 0.3)
 
 # Plot states at nodes
-my_colors <- c("#BF9000", "#4472C4")
+my_colors <- c("#4472C4", "#BF9000")
 mapped_tree <- make.simmap(tree, x=vector_states)
 states <- getStates(mapped_tree, "tips")
 cols <- setNames(my_colors, sort(unique(states)))

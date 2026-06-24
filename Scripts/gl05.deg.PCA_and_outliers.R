@@ -33,7 +33,7 @@ meta <- read.csv(file = file_metadata, sep = "\t", header = T, row.names = 1)
 meta$group <- paste(meta$phenotype, meta$species, sep = "_")
 
 # Filter region
-region <- "DE"
+region <- "TL"
 meta_reg <- meta[meta$region == region, ]
 
 # Remove outliers from metadata
@@ -113,15 +113,26 @@ p <- ggplot(pca_data, aes(PC1, PC2,
   # Manual colors (ONLY ONCE)
   scale_color_manual(values = c(
     "Meeli" = "#104E8B",
-    "Ornatipinnis" = "#CD1076",
+    "Ornatipinnis" = "gold2",
     "Multifasciatus" = "#8B4500"
   )) +
   
   scale_fill_manual(values = c(
     "Meeli" = "#104E8B",
-    "Ornatipinnis" = "#CD1076",
+    "Ornatipinnis" = "gold2",
     "Multifasciatus" = "#8B4500"
   )) +
+  scale_shape_manual(
+    values = c(
+      "GL" = 16,
+      "S" = 17
+    ),
+    labels = c(
+      "GL" = "Group-living\n(filled ellipse)",
+      "S" = "Solitary\n(empty ellipse)"
+    ),
+    name = "Phenotype"
+  ) +
   
   xlab(paste0("PC1: ", round(100 * percentVar[1], 1), "% variance")) +
   ylab(paste0("PC2: ", round(100 * percentVar[2], 1), "% variance")) +
@@ -138,9 +149,9 @@ p <- ggplot(pca_data, aes(PC1, PC2,
   theme_minimal()
 
 p
-path_plot <- paste0("//files1.igc.gulbenkian.pt/folders/ANB/Pol/Expression/group_vs_solitary/05.DEG/PCAs/",
-                    region, "_unfiltered.pdf")
-ggsave(plot = p, filename = path_plot, device = "pdf", width = 5, height = 5)
+path_plot <- paste0("//files1.igc.gulbenkian.pt/folders/ANB/Pol/Group_vs_solitary/05.DEG/PCA_outliers/",
+                    region, ".pdf")
+ggsave(plot = p, filename = path_plot, device = "pdf", width = 6, height = 5)
 
 
 
