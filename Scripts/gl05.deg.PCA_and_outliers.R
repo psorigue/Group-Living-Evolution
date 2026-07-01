@@ -81,6 +81,13 @@ percentVar <- (prcomp(t(assay(vsd)))$sdev^2) / sum(prcomp(t(assay(vsd)))$sdev^2)
 # Define which phenotype gets filled ellipses
 filled_pheno <- "GL"
 
+
+species_labels <- c(
+  "Meeli" = expression(italic("N. meeli")),
+  "Ornatipinnis" = expression(italic("L. ornatipinnis")),
+  "Multifasciatus" = expression(italic("N. multifasciatus"))
+)
+
 p <- ggplot(pca_data, aes(PC1, PC2,
                           color = species,
                           shape = phenotype)) +
@@ -110,18 +117,20 @@ p <- ggplot(pca_data, aes(PC1, PC2,
     linewidth = 1
   ) +
   
+
+  
   # Manual colors (ONLY ONCE)
   scale_color_manual(values = c(
     "Meeli" = "#104E8B",
     "Ornatipinnis" = "gold2",
     "Multifasciatus" = "#8B4500"
-  )) +
+  ),labels = species_labels) +
   
   scale_fill_manual(values = c(
     "Meeli" = "#104E8B",
     "Ornatipinnis" = "gold2",
     "Multifasciatus" = "#8B4500"
-  )) +
+  ),labels = species_labels) +
   scale_shape_manual(
     values = c(
       "GL" = 16,

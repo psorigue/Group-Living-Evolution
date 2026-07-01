@@ -4,9 +4,7 @@ library(tidyr)
 library(ggplot2)
 library(stringr)
 
-region <- "TL"
-
-df <- read.csv(paste0("//files1.igc.gulbenkian.pt/folders/ANB/Pol/writing/Group-Living_Evolution_paper/Figures/Fig3_extras/dataset_Fig3_", region, ".txt"),
+df <- read.csv("//files1.igc.gulbenkian.pt/folders/ANB/Pol/writing/Group-Living_Evolution_paper/Figures/dataset_Fig4.txt",
                header = T, sep = "\t")
 
 # Order clusters by size
@@ -34,6 +32,10 @@ p <- ggplot(df_long,
     ),
     breaks = c("N.multifasciatus", "N.meeli", "Common")
   ) +
+  scale_y_continuous(
+    breaks = scales::pretty_breaks(),
+    labels = scales::label_number(accuracy = 1)
+  ) +
   coord_flip() +
   scale_x_discrete(labels = \(x) str_wrap(x, width = 30)) +
   labs(
@@ -42,8 +44,8 @@ p <- ggplot(df_long,
     fill = NULL
   ) +
   theme_minimal() +
-  theme(legend.position = "none") 
+  theme(legend.position = "none")
 
 p
-path_plot <- paste0("//files1.igc.gulbenkian.pt/folders/ANB/Pol/writing/Group-Living_Evolution_paper/Figures/Fig3", region, "test.pdf")
-ggsave(plot = p, filename = path_plot, device = "pdf", width = 5, height = 8) # TL 5x8; DE 5x6
+path_plot <- paste0("//files1.igc.gulbenkian.pt/folders/ANB/Pol/writing/Group-Living_Evolution_paper/Figures/barplot_Fig4.pdf")
+ggsave(plot = p, filename = path_plot, device = "pdf", width = 5, height = 5)
