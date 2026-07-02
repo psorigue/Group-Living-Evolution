@@ -1,4 +1,4 @@
-# Molecular Evolution of Social Living in Lamprologini Cichlids
+# Shared Signatures of Social Evolution and Plasticity in Shell-Dwelling Cichlids
 Pol Sorigue(1,2), XXXXXXXXXX, Rui Oliveira (1,2,*)
 
 1 GIMM - Gulbenkian Institute for Molecular Medicine, Rua Quinta Grande 6, 2780-156 Oeiras, Portugal  
