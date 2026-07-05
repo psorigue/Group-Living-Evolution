@@ -2,8 +2,8 @@
 Pol Sorigue(1,2), Alex Jordan (3), Walter Salzburger (4), Rui Oliveira (1,2,*)
 
 1 GIMM - Gulbenkian Institute for Molecular Medicine, Oeiras, Portugal  
-2 ISPA – University Institute for Psychological, Social and Life Sciences, Lisbon, Portugal
-3 Behavioural Evolution Lab, Max Planck Institute of Animal Behavior, Konstanz, Germany
+2 ISPA – University Institute for Psychological, Social and Life Sciences, Lisbon, Portugal  
+3 Behavioural Evolution Lab, Max Planck Institute of Animal Behavior, Konstanz, Germany  
 4 Department of Environmental Sciences, Zoological Institute, University of Basel, Basel,
 Switzerland
 
