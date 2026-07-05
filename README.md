@@ -1,14 +1,18 @@
 # Shared Signatures of Social Evolution and Plasticity in Shell-Dwelling Cichlids
-Pol Sorigue(1,2), XXXXXXXXXX, Rui Oliveira (1,2,*)
+Pol Sorigue(1,2), Alex Jordan (3), Walter Salzburger (4), Rui Oliveira (1,2,*)
 
-1 GIMM - Gulbenkian Institute for Molecular Medicine, Rua Quinta Grande 6, 2780-156 Oeiras, Portugal  
-2 ISPA - University Institute for Psychological, Social and Life Sciences, Rua do Jardim do Tabaco 34, 1149-041 Lisbon, Portugal  
+1 GIMM - Gulbenkian Institute for Molecular Medicine, Oeiras, Portugal  
+2 ISPA – University Institute for Psychological, Social and Life Sciences, Lisbon, Portugal
+3 Behavioural Evolution Lab, Max Planck Institute of Animal Behavior, Konstanz, Germany
+4 Department of Environmental Sciences, Zoological Institute, University of Basel, Basel,
+Switzerland
+
 (*) Corresponding author
 
 DOI: Pending
 
 ## Data availability
-The raw sequencing data for this study have been deposited in the European Nucleotide Archive (ENA) at EMBL-EBI under accession number **PRJEB111213**. 
+The raw sequencing data for this study have been deposited in the European Nucleotide Archive (ENA) at EMBL-EBI under accession number **PRJEB111213**.
 
 ## Annotations Used:
 - Nile tilapia genome and GTF file: **O_niloticus_UMD_NMBU** (https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_001858045.2/)
