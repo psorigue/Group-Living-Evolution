@@ -25,7 +25,7 @@ for FILE in "${LIST_SAMPLES[@]}" ; do
     mkdir -p "${PATH_OUT}/${FILE}"
     cd "${PATH_OUT}/${FILE}"
     
-    # Run STAR for each sample
+    # Run STAR for each sample. 
     STAR --genomeDir "${PATH_GENOME}" \
         --sjdbGTFfile "${REFERENCE_GTF}" \
         --readFilesIn "${PATH_FILES}"/"${FILE}".out.fastq \
@@ -35,6 +35,7 @@ for FILE in "${LIST_SAMPLES[@]}" ; do
         --outFilterMultimapNmax 10 \
         --outFilterMatchNminOverLread 0.4 \
         --outFilterScoreMinOverLread 0.4 \
+        --quantMode TranscriptomeSAM \
         --alignIntronMax 100000
     
     # Index the BAM file
